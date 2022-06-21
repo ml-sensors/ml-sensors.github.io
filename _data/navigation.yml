@@ -7,3 +7,5 @@ main:
     url: "https://github.com/harvard-edge/ML-Sensors"
   - title: "Email"
     url: "mailto:ml-sensors@googlegroups.com"
+  - title: "Team"
+    url: "/team"
