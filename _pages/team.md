@@ -19,6 +19,11 @@ team:
     title: "Vijay Janapa Reddi"
     excerpt: "Associate Professor at Harvard University<br/>[Learn More](https://scholar.harvard.edu/vijay-janapa-reddi)"
 
+  - image_path: /assets/images/team/sachin.jpg
+    alt: "Sachin Katti"
+    title: "Sachin<br/>Katti"
+    excerpt: "Associate Professor at Stanford University<br/>[Learn More](https://web.stanford.edu/~skatti/)"
+
   - image_path: /assets/images/team/zain.jpg
     alt: "Zain Asgar"
     title: "Zain<br/>Asgar"
@@ -33,11 +38,6 @@ team:
     alt: "Emma Chen"
     title: "Emma<br/>Chen"
     excerpt: "PhD Student at Harvard University<br/>[Learn More](https://www.linkedin.com/in/emma-ying-chen-34126113b/)"
-
-  - image_path: /assets/images/team/sachin.jpg
-    alt: "Sachin Katti"
-    title: "Sachin<br/>Katti"
-    excerpt: "Associate Professor at Stanford University<br/>[Learn More](https://web.stanford.edu/~skatti/)"
 
   - image_path: /assets/images/team/brian.jpg
     alt: "Brian Plancher"
