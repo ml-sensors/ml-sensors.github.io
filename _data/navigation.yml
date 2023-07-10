@@ -3,6 +3,8 @@ main:
     url: "/"
   - title: "Whitepaper"
     url: "https://arxiv.org/abs/2206.03266"
+  - title: "Datasheets"
+    url: "https://arxiv.org/abs/2306.08848"
   - title: "GitHub"
     url: "https://github.com/harvard-edge/ML-Sensors"
   - title: "Email"
