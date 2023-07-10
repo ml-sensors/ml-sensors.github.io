@@ -38,7 +38,7 @@ Machine learning sensors represent a paradigm shift for the future of embedded m
 
 Our vision for ''sensor 2.0'' entails segregating sensor input data and ML processing from the wider system at the hardware level and providing a thin interface that mimics traditional sensors in functionality. This separation leads to a modular and easy-to-use ML sensor device. ML sensors increase privacy and accuracy while making it easier for system builders to integrate ML into their products as a simple component.
 
-To learn more about our approach, check out our [whitepaper on arXiv](https://arxiv.org/abs/2206.03266).
+To learn more about our approach, check out our [ML sensor whitepaper](https://arxiv.org/abs/2206.03266), as well as our recent work on [datasheets for machine learning sensors](https://arxiv.org/abs/2306.08848).
 
 {% include section_break %}
 # Challenges
@@ -54,7 +54,7 @@ To learn more about our approach, check out our [whitepaper on arXiv](https://ar
 
 This illustrative example datasheet highlighting the various sections of an ML Sensor datasheet. On the top, we have the items currently found in standard datasheets: the description, features, use cases, diagrams and form factor, hardware characteristics, and communication specification and pinout. On the bottom, we have the new items that need to be included in an ML sensor datasheet: the ML model characteristics, dataset nutrition label, environmental impact analysis, and end-to-end performance analysis. While we compressed this datasheet into a one-page illustrative example by combining features and data from a mixture of sources, on a real datasheet, we assume each of these sections would be longer and include additional explanatory text to increase the transparency of the device to end-users. Interested users can find the most up-to-date version of the datasheet online at [https://github.com/harvard-edge/ML-Sensors](https://github.com/harvard-edge/ML-Sensors).
 
-![Example ML Sensor Datasheet](/assets/images/example_datasheet.png)
+![Example ML Sensor Datasheet](/assets/images/datasheet.png)
 
 {% include section_break %}
 # Thanks to our lead supporters:
